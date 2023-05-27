@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WGn6g5dJKpaXqICApWSng0Qsvu+GyJ0A5wahgFrCEnE=",
+  "Source": "pokemon-reviews-api",
+  "BasePath": "_content/pokemon-reviews-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
